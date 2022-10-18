@@ -5,7 +5,7 @@ body{
     background-position: center;
 
     font-family: 'VT323', monospace;
-    color: white;
+    color: rgb(226, 226, 226);
     font-size: 18px;
     display: flex;
     justify-content: center;
@@ -17,11 +17,12 @@ body{
 .cartao{
     background-color: black;
     width: 370px;
-    border: 2px solid #6ecce4;   
+    border: 2px solid #3d52e4;   
     border-radius: 10px;
     overflow: hidden;
     border-style: solid;
     border-width: 3px;
+    background-image: linear-gradient(45deg, #243292 20%, #3d52e4, #b86ef8, #2fc1f5, #131b4a);
 }
 
 .cartao .minhas-informacoes{
@@ -34,7 +35,7 @@ body{
 
 .cartao .minhas-informacoes img{
     border-radius: 50px;
-    border: 3px solid #6ecce4;
+    border: 3px solid #3d52e4;
 }
 
 .cartao .minhas-informacoes .nome{
@@ -43,7 +44,7 @@ body{
 
 .cartao .minhas-informacoes .cargo{
     font-size: 20px;
-    color:rgb(207, 204, 204);
+    color:rgb(226, 226, 226);
 }
 
 .cartao .conteudo{
