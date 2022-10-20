@@ -5,7 +5,7 @@ body{
     background-position: center;
 
     font-family: 'VT323', monospace;
-    color: rgb(226, 226, 226);
+    color: rgb(230, 230, 230);
     font-size: 18px;
     display: flex;
     justify-content: center;
@@ -44,7 +44,7 @@ body{
 
 .cartao .minhas-informacoes .cargo{
     font-size: 20px;
-    color:rgb(226, 226, 226);
+    color:rgb(230, 230, 230);
 }
 
 .cartao .conteudo{
